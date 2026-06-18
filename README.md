@@ -109,7 +109,7 @@ void timer() {
 
 ## 📊 Oscilloscope Output
 
-![Schematic](timer1_osc.png)
+![image alt](https://github.com/faizan-alf/Timer/blob/5143f4670ee63ab53417064a19ce097eb667ea54/timer1_osc.png)
 
 ```
 🪜 Steps to Build & Test:
