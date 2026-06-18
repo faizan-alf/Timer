@@ -24,7 +24,7 @@ The waveform can be observed on an oscilloscope to verify timing.
 
 ## 🗺️ Circuit Diagram
 
-![Schematic](timer1.png)
+![image alt](https://github.com/faizan-alf/Timer/blob/c62f89269c6c3bd1c44a24d35745ae975e6fc32f/timer1.png)
 
 ---
 
